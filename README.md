@@ -1,6 +1,6 @@
 # Hubot Exit #
 
-`hubot-exit` is a simply script to log 'exit' and 'uncaughtException' event emitted by `process`.
+`hubot-exit` is a simple hubot script to log 'exit' and 'uncaughtException' event emitted by `process`.
 
 ## Usage ##
 
