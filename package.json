@@ -1,0 +1,30 @@
+{
+  "name": "hubot-exit",
+  "version": "1.0.0",
+  "description": "Log exit and uncaught exception when hubot instance exits.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huandu/hubot-exit.git"
+  },
+  "keywords": [
+    "hubot",
+    "exit",
+    "exception",
+    "helper",
+    "diagnose"
+  ],
+  "author": {
+    "name": "Huan Du",
+    "email": "npm@huandu.me"
+  },
+  "readmeFilename": "README.md",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huandu/hubot-exit/issues"
+  },
+  "homepage": "https://github.com/huandu/hubot-exit"
+}
